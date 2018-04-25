@@ -6,17 +6,21 @@ At the end of the RAcE project, a full set of data collected in the course of th
 Country codes are: DRC (Dem Republic of Congo), MOZ (Mozambique), MWI (Malawi), NIE (Nigeria), NIG (Niger)
 
 #### Core data by site
-  Community Health Worker List (XXX.chw)
-  Community Care Site List (XXX.site)
-  Health Facility List (XXX.fac)
-  Health Facility Caseload List (aggregated at facility) (XXX.Fcases)
-  Individual Cases List (XXX.Icases)
+  Community Health Worker List (XXX.chw); 
+  Community Care Site List (XXX.site); 
+  Health Facility List (XXX.fac); 
+  Health Facility Caseload List (aggregated at facility) (XXX.Fcases); 
+  Individual Cases List (XXX.Icases); and
   QoC Survey (XXX.qoc)
 
 ##### Other potential datasets
-  Supervisor List (XXX.sup)
-  Supervision Rates (XXX.srate)
+  Supervisor List (XXX.sup); 
+  Supervision Rates (XXX.srate); and
   Heath Facility Stats (XXX.Fcases)
+
+##### PEV datasets
+  Villages (XXX.PEV.vil); and 
+  Health Facility (XXX.PEV.fac) - detailed information
 
 ##### GIS 
 Data is derived from the data submitted by the grantee, and missing data is added based on a google search.   
