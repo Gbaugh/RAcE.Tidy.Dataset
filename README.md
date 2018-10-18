@@ -25,3 +25,8 @@ Country codes are: DRC (Dem Republic of Congo), MOZ (Mozambique), MWI (Malawi), 
 ##### GIS 
 Data is derived from the data submitted by the grantee, and missing data is added based on a google search.   
 Maps are derived from... 
+
+
+##### Analysis
+This will analyse the data structures and results to identify those that are is interesting (a novel conclusion that requires more empirical research), not interesting (reliable conclusion backed by empirical research), and particularly focusing on not interesting results that are routinely ignored by programmes. 
+
